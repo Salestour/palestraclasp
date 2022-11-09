@@ -1,0 +1,34 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_5339FA5C_43C2_A599_41D0_A9D6E8603133.source = https://portfolio.robertosales.com.br/
+LinkBehaviour_525B0825_43C3_A5AA_41BE_CE2E7D6B79C7.source = https://www.instagram.com/robertosalesoficial/
+PopupWebFrameBehaviour_52353E09_43CE_9D7B_41B7_7A5EB719B40E.url = //www.youtube.com/embed/ZRAOAMdt9r4
+PopupWebFrameBehaviour_569ADA0E_4442_6579_41C5_8BAA09BD669F.url = //www.youtube.com/embed/yi-eqybl_BA
+
+## Media
+
+### Title
+video_5242A95A_43C2_A799_41C2_73D20BB9E1BE.label = CLASP 360
+video_520854B5_43C2_EEAB_41B4_4DF8B133433B.label = CLASP 360
+panorama_4800C5DC_43C1_EE9A_41CB_D2F65D055F94.label = CLASP F1 
+panorama_494EF86B_43C1_E5BF_41B7_08E491794DFF.label = CLASPF2
+
+### Video
+videolevel_5231ADFD_5EBA_E6A7_41B5_CF5BC0455EF2.posterURL = media/video_520854B5_43C2_EEAB_41B4_4DF8B133433B_poster_pt.jpg
+videolevel_5231DDFD_5EBA_E6A7_41A2_3D30C1E6EACA.posterURL = media/video_520854B5_43C2_EEAB_41B4_4DF8B133433B_poster_pt.jpg
+videolevel_5231ADFD_5EBA_E6A7_41B5_CF5BC0455EF2.url = media/video_520854B5_43C2_EEAB_41B4_4DF8B133433B_pt.m3u8
+videolevel_5231DDFD_5EBA_E6A7_41A2_3D30C1E6EACA.url = media/video_520854B5_43C2_EEAB_41B4_4DF8B133433B_pt.mp4
+videolevel_523F0DA8_5EBA_E6AE_41D5_01742DA1C3F2.posterURL = media/video_5242A95A_43C2_A799_41C2_73D20BB9E1BE_poster_pt.jpg
+videolevel_523F0D90_5EBA_E77D_41B8_E337AAB0F53E.posterURL = media/video_5242A95A_43C2_A799_41C2_73D20BB9E1BE_poster_pt.jpg
+videolevel_523F0D90_5EBA_E77D_41B8_E337AAB0F53E.url = media/video_5242A95A_43C2_A799_41C2_73D20BB9E1BE_pt.m3u8
+videolevel_523F0DA8_5EBA_E6AE_41D5_01742DA1C3F2.url = media/video_5242A95A_43C2_A799_41C2_73D20BB9E1BE_pt.mp4
+
+## Tour
+
+### Description
+
+### Title
+tour.name = CLASP
